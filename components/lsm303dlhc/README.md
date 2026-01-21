@@ -1,6 +1,6 @@
 # LSM303DLHC Driver for ESP-IDF
 
-This is an ESP-IDF component for the **LSM303DLHC** 3D accelerometer and 3D magnetometer module.
+> **WARNING:** This component was created as an experiment in generating ESP-IDF drivers purely using the `gemini-cli`. It has **not been tested** on physical hardware and is not guaranteed to be functional, accurate, or suitable for any purpose. This was an experiment by Mark VandeWettering <mvandewettering@gmail.com> and the code should be thoroughly reviewed and tested before any use.
 
 ## Features
 
