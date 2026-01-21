@@ -1,6 +1,6 @@
 # LSM303DLHC Driver for ESP-IDF
 
-> **WARNING:** This component was created as an experiment in generating ESP-IDF drivers purely using the `gemini-cli`. It has **not been tested** on physical hardware and is not guaranteed to be functional, accurate, or suitable for any purpose. This was an experiment by Mark VandeWettering <mvandewettering@gmail.com> and the code should be thoroughly reviewed and tested before any use.
+> **NOTE:** The basic functionality of this module (reading accelerometer and magnetometer data) has been tested on physical hardware and appears to function as expected. Interrupt processing has not yet been tested. This was an experiment by Mark VandeWettering <mvandewettering@gmail.com> in generating ESP-IDF drivers purely using the `gemini-cli`.
 
 ## Features
 
